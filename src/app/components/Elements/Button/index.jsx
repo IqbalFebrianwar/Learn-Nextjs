@@ -3,7 +3,7 @@ const Button =(props)=>{
 
     return (
         <button 
-            className="h-10 px-6 text-sm font-semibold text-white bg-black rounded-md"
+            className="w-full h-10 text-sm font-semibold text-white bg-black rounded-md"
         >
             {children}
         </button>
