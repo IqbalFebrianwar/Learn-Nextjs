@@ -1,8 +1,8 @@
-import FormLogin from "./FormLogin/page";
+import LoginPage from "./Login/page";
 
 
 export default function Home() {
   return (
-    <FormLogin></FormLogin>
+    <LoginPage></LoginPage>
   )
 }
